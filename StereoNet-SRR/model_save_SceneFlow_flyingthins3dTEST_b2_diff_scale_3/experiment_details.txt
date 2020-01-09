@@ -1,0 +1,2 @@
+{'scale num': 3, 'max disparity': 192, 'epochs': 100, 'batch size': 2, 'load model': 'model_save_flyingthings3d_flyingthins3dTEST_b2_diff_scale_3/checkpoint_14.pth', 'save model': './model_save_SceneFlow_flyingthins3dTEST_b2_diff_scale_3', 'data path': '/home/caitao/Dataset/sceneflow/', 'normalize': {'mean': [0.0, 0.0, 0.0], 'std': [1.0, 1.0, 1.0]}}
+{'experiment details log file': 'experiment_details.txt', 'train data': 'SceneFlow', 'test data': 'flyingthings3d-TEST', 'model': 'StereoNet using difference to generate cost volume with scale is equal to 3'}
